@@ -1,0 +1,10 @@
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\bin\Debug\Calculos2Numeros.exe.config
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\bin\Debug\Calculos2Numeros.exe
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\bin\Debug\Calculos2Numeros.pdb
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.csprojAssemblyReference.cache
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.Properties.Resources.resources
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.csproj.GenerateResource.cache
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.csproj.CoreCompileInputs.cache
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.exe
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.pdb
+c:\users\n989gf4\source\repos\Calculos2Numeros\Calculos2Numeros\obj\Debug\Calculos2Numeros.frmPrincipal.resources
